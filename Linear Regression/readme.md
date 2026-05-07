@@ -11,13 +11,13 @@ The dataset used in this project is the Boston Housing Dataset, which contains i
 
 Some important features include:
 
--CRIM — Crime rate by town
--ZN — Proportion of residential land zoned
--INDUS — Non-retail business acres per town
--RM — Average number of rooms per dwelling
--AGE — Proportion of owner-occupied units built before 1940
--TAX — Property tax rate
--PTRATIO — Pupil-teacher ratio
--LSTAT — Percentage of lower status population
+- CRIM — Crime rate by town
+- ZN — Proportion of residential land zoned
+- INDUS — Non-retail business acres per town
+- RM — Average number of rooms per dwelling
+- AGE — Proportion of owner-occupied units built before 1940
+- TAX — Property tax rate
+- PTRATIO — Pupil-teacher ratio
+- LSTAT — Percentage of lower status population
 *Target Variable*
--MEDV — Median value of owner-occupied homes (in $1000s)
+- MEDV — Median value of owner-occupied homes (in $1000s)
