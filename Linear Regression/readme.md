@@ -19,5 +19,6 @@ Some important features include:
 - TAX — Property tax rate
 - PTRATIO — Pupil-teacher ratio
 - LSTAT — Percentage of lower status population
+
 *Target Variable*
 - MEDV — Median value of owner-occupied homes (in $1000s)
