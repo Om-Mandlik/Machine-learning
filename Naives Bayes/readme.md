@@ -9,12 +9,4 @@ The algorithm calculates the probability of a data point belonging to a specific
 ### The Mathematical Foundation
 The core formula is based on Bayes' Theorem:
 
-$$P(C|X) = \frac{P(X|C)P(C)}{P(X)}$$
 
-Where:
-* **$P(C|X)$ (Posterior):** The probability of the class ($C$) given the features ($X$).
-* **$P(X|C)$ (Likelihood):** The probability of seeing these features ($X$) given the class ($C$).
-* **$P(C)$ (Prior):** The initial probability of the class ($C$) occurring.
-* **$P(X)$ (Evidence):** The probability of the features ($X$) occurring across all classes.
-
----
