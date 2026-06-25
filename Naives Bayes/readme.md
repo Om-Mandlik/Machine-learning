@@ -10,3 +10,4 @@ The algorithm calculates the probability of a data point belonging to a specific
 The core formula is based on Bayes' Theorem:
 
 
+$P(C|X) = \frac{P(X|C)P(C)}{P(X)}$$
