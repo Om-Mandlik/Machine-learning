@@ -1,0 +1,2 @@
+## Introduction to Machine Learning
+​Machine Learning (ML) is a subset of artificial intelligence (AI) focused on building systems that learn from data to improve performance on specific tasks without being explicitly programmed for every rule.
