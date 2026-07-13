@@ -8,7 +8,6 @@ This project demonstrates the implementation of **Linear Regression** using the 
 
 The dataset used in this project is the **Boston Housing Dataset**, which contains information collected by the U.S. Census Service concerning housing in the Boston area.
 
-> **Note:** The Boston Housing Dataset has been deprecated in recent versions of Scikit-learn due to ethical concerns regarding one of its variables. It is still widely used for educational purposes.
 
 <h4>Features</h4>
 
@@ -42,9 +41,9 @@ The goal of Linear Regression is to find the line that minimizes the difference 
 
 For a single feature:
 
-\[
+$$
 y = mx + c
-\]
+$$
 
 Where:
 
@@ -55,9 +54,9 @@ Where:
 
 For multiple features (Multiple Linear Regression):
 
-\[
+$$
 y = \beta_0 + \beta_1x_1 + \beta_2x_2 + \cdots + \beta_nx_n
-\]
+$$
 
 Where:
 
