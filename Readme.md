@@ -105,38 +105,6 @@ This approach is useful when obtaining labeled data is expensive or time-consumi
 
 ---
 
-## 4. Reinforcement Learning
-
-In reinforcement learning, an **agent** learns by interacting with an **environment**.
-
-The agent performs actions, receives rewards or penalties, and learns a policy that maximizes cumulative reward over time.
-
-### Key Concepts
-
-- **Agent** – The learner or decision-maker.
-- **Environment** – The world the agent interacts with.
-- **State** – The current situation of the environment.
-- **Action** – A decision made by the agent.
-- **Reward** – Feedback received after taking an action.
-- **Policy** – The strategy used by the agent.
-
-### Examples
-- Game-playing AI (Chess, Go)
-- Self-driving cars
-- Robotics
-- Recommendation systems
-- Resource management
-
-### Common Algorithms
-- Q-Learning
-- Deep Q Network (DQN)
-- SARSA
-- Policy Gradient
-- PPO (Proximal Policy Optimization)
-- Actor-Critic
-
----
-
 # Machine Learning Workflow
 
 A typical machine learning project follows these steps:
